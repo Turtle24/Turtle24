@@ -1,7 +1,4 @@
-### Hi there 👋
-
-<!--
-**Turtle24/Turtle24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi I'm Aidan 
 
 <details>
   <summary>:zap: Github Stats</summary>
@@ -13,4 +10,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Turtle24&layout=compact&bg_color=ffffff&text_color=333333">
 </details>
 <br/>
-
