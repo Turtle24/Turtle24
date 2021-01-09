@@ -22,4 +22,4 @@ Hi, I'm Aidan, a passionate self-taught Programmer 🚀 from South Africa.
 <img src="https://github-readme-stats.vercel.app/api?username=Turtle24&theme=react&show_icons=true">
 
 <summary>:zap: Languages Used</summary>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Turtle24&layout=compact&bg_color=ffffff&text_color=333333">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Turtle24&layout=compact&theme=react">
