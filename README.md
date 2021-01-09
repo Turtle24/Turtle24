@@ -1,5 +1,6 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
+Hi, I'm Aidan, a passionate self-taught Programmer 🚀 from South Africa.
 
 **Languages and Tools:**  
 
