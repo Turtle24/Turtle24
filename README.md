@@ -11,9 +11,7 @@ Hi, I'm Aidan, a passionate self-taught Programmer 🚀 from South Africa.
 
 **More about Me:**
 
-- 📚 MSc Business Analytics and Data Science student;
-- 🎉 I’m currently learning JavaScript; 
-- ↗️ My main language is my Python;
+- 📚 MSc Business Intelligence and Analytics;
 - 📈 Data is one of my main interests;
 - 🤖 AI/ML is what I'm working towards;
 
