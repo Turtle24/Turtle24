@@ -11,6 +11,7 @@ Hi, I'm Aidan, a passionate self-taught Programmer 🚀 from South Africa.
 **More about Me:**
 
 - 📚 MSc Business Intelligence and Analytics;
+- 📘 Learning Golang;
 - 📈 Data is one of my main interests;
 - 🤖 AI/ML is what I'm working towards;
 
